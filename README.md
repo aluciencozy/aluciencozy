@@ -54,5 +54,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aluciencozy&show_icons=true&hide_border=true&title_color=CBA6F7&icon_color=F38BA8&text_color=CDD6F4&bg_color=1E1E2E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aluciencozy&theme=tokyonight&hide_border=true&background=1E1E2E&sideNums=CDD6F4&sideLabels=CDD6F4&dates=6C7086&ring=CBA6F7&fire=F38BA8" />
 </p>
